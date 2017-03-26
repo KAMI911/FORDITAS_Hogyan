@@ -246,8 +246,7 @@ Egybeírjuk, ha határozószó, vagyis ha az a vagy e nem értelmezhető mutató
 
 |helyes használat|magyarázat|
 |-|-|
-| ***0-s, 2.4.0-s kernel, 4.2.0-s X-kiszolgáló, 1.0-s UHU Linux*** | Nincsen benne á betű. Minden más (nem 0-val végződő) szám után van kötőhangzó. |
-| ***0-t, 1-et, 2-t ...*** | |
+| ***0-s, 2.4.0-s kernel, 4.2.0-s X-kiszolgáló, 1.0-s UHU Linux*** | Nincsen benne á betű. Minden más (nem 0-val végződő) szám után van kötőhangzó. Helyesen tehát: ***0-t, 1-et, 2-t ...*** |
 | ***8 bites, 16 bites*** | Külön írandó. Betűvel: nyolcbites, tizenhat bites. |
 | ***addig*** | Rövid i. |
 | ***amíg*** | Hosszú í. |
