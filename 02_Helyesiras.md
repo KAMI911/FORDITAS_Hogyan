@@ -10,10 +10,10 @@ Ha egyszer azt mondjuk, hogy *egy* és hogy *eggyel*, akkor a kettő különbsé
 
 A *-val, -vel*, valamint a *-vá, -vé* rag *v* betűje, amennyiben a szótő kiejtése mássalhangzóra végződik, a kiejtett (és nem a leírt) záró mássalhangzóhoz hasonul. Lássunk példákat a helyes használatra:
 
-` * `**`1-gyel,` `2-vel,` `3-mal,` `4-gyel,` `5-tel,` `10-zel,` `20-szal,` `30-cal,` `100-zal,` `1000-rel`**`, ...`
-` * `**`Linuxszal,` `Windowszal,` `YaST-tal,` `Netscape-pel,` `Internet` `Explorerrel,` `Oracle-lel,` `Macintoshsal,` `X-szel,` `GNOME-mal,` `LibreOffice-szal`**`, ...`
-` * `**`%-kal`**` (százalékkal), `**`@-cal`**` (kukaccal), ...`
-` * `**`n-nel`**`, `**`2`<sup>`n`</sup>`-nel`**` (kettő az n-edikennel), `**`n`<sup>`3`</sup>`-nal`**` (n a harmadikonnal) vagy `**`n`<sup>`3`</sup>`-nel`**` (n a köbönnel) vagy `**`n`<sup>`3`</sup>`-bel`**` (n köbbel), esetleg `**`n`<sup>`3`</sup>`-mal`**` (n ad hárommal), de mindenképpen az egyik lehetséges kiejtéshez kell a ragot igazítanunk, ...`
+* **1-gyel****, **2-vel**, **3-mal**, **4-gyel**, **5-tel**, **10-zel**, **20-szal**, **30-cal**, **100-zal**, **1000-rel**, ...
+* **Linuxszal**, **Windowszal**, **YaST-tal**, **Netscape-pel**, **Internet Explorerrel**, **Oracle-lel**, **Macintoshsal**, **X-szel**, **GNOME-mal**, **LibreOffice-szal**, ...
+* **%-kal** (százalékkal), **@-cal** (kukaccal), ...
+* **n-nel**, **2<sup>n</sup>-nel** (kettő az n-edikennel), **n<sup>3</sup>-nal** (n a harmadikonnal) vagy **n<sup>3</sup>-nel** (n a köbönnel) vagy **n<sup>3</sup>-bel** (n köbbel), esetleg **n<sup>3</sup>-mal** (n ad hárommal), de mindenképpen az egyik lehetséges kiejtéshez kell a ragot igazítanunk, ...
 
 Sok esetben nem egyértelmű, hogy milyen hangzóra is végződik az angol szó kiejtése. Az írásban *s*-re végződ angol szavak kiejtése általában *z* hanggal végződik (pl. *windows*), de vannak szavak, melyek kiejtése *sz*-szel zárul (pl. *case*). Nem egyértelmű az sem, hogy például az *Apple* kiejtése *l* vagy *ö* hangra, a *delay* kiejtése *é* vagy *j* hangra végződik stb. Ilyenkor törekedjünk a kerülő megfogalmazásra, hogy a kérdéses szó ne kapjon ragot (például <u>delay-jel</u> helyett **delay kapcsolóval**, <u>Apple-lel</u> helyett **Apple számítógéppel**, <u>use case-szel</u> helyett **use case diagrammal**).
 
