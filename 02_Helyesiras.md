@@ -245,4 +245,51 @@ Egybeírjuk, ha határozószó, vagyis ha az a vagy e nem értelmezhető mutató
 ### A leggyakrabban rosszul írt szavak szótára
 
 |helyes használat|magyarázat|
-| ***0-s, 2.4.0-s kernel, 4.2.0-s X-kiszolgáló, 1.0-s UHU Linux*** | Nincsen benne á betű. Minden más (nem 0-val végződő) szám után van kötőhangzó. |- | ***0-t, 1-et, 2-t ...*** | |- | ***8 bites, 16 bites*** | Külön írandó. Betűvel: nyolcbites, tizenhat bites. |- | ***addig*** | Rövid i. |- | ***amíg*** | Hosszú í. |- | ***aposztróf*** | Hosszú ó. |- | ***attribútum*** | Hosszú ú. |- | ***audio-*** | Rövid o. Lásd video. Például: ***audio-CD***. |- | ***bal oldal, bal oldali, bal oldalon*** | két szó. (A politikai értelemben vett *baloldal* van egybe írva.) |- | ***baloldalt*** | „Bal oldalon” értelemben egy szó. |- | ***bocsát*** | Nincsen benne j betű. |- | ***címke*** | Hosszú í. |- | ***egyelőre*** | nincs benne n betű, a szónak semmi köze az egyenlő szóhoz. (Ha a tortát szeletelem, akkor azt tíz részre osztom, méghozzá tíz egyenlőre. De én biztos vagyok benne, hogy te nem ezt a szót akarod használni.) |- | ***elöl*** | Valami nem hátul van, hanem elöl. Kezdjük ***elölről***. Elöl ül a masiniszta...De: |- | ***elől*** | Menekül valaki elől. |- | ***e-mail, e-mailen, e-mailezés*** | Az *e-mail* szótő kötőjelet tartalmaz, a ragokat kötőjel nélkül kapcsoljuk. |- | ***e-mail cím, e-mail kapcsolat*** | Külön. |- | ***ezenfelül, ezenkívül (és még, továbbá értelemben)*** | Egy szó. |- | ***hajlékonylemez*** | Egy szó. |- | ***internet*** | Kis i, nem tulajdonnév. Régebben az volt, most már nem. |- | ***internetelérés*** | Csak hat szótag, ezért egyben van. |- | ***internet-hozzáférés*** | Kötőjellel. |- | ***irt*** (jelen idejű ige) | Rövid i. ***Vírusirtó*** |- | ***kiváló*** | Rövid i. |- | ***kíván, kíváncsi*** | Hosszú í. |- | ***kisbetű*** | Ha azt kell kifejezni, hogy abcde és nem ABCDE, akkor egy szó. Ha esetleg nagyítóval alig olvasható szövegről van szó, <small>Mint Ez Itt</small> (ami persze tartalmazhat kis- és és nagybetűket is), akkor ez a szöveg ***kis betűkkel*** van írva. |- | ***l.*** | =lásd. Nem <u>ld.</u> és nem is <u>lsd.</u>. Ne használjuk, írjuk ki, hogy ***lásd***. |- | ***licenc, licence, licencet, licenccel, licencel*** | Nem <u>licensz</u> és nem is <u>liszensz!</u> (Az angol alak license, tehát például GPL = General Public License, ezt nem fordítjuk le magyarra.) A magyarba német közvetítéssel jutott. |- | ***merevlemez*** | Egy szó. |- | ***minél*** | Egy n. Minél több, annál jobb. |- | ***muszáj*** | Pontos j, de egyébként se használjuk ezt a szót írott nyelvben. |- | ***partíció*** | Hosszú í. |- | ***particionál, particionálás*** | Rövid i. |- | ***pl.*** | = például. A végén van pont, hamarabb nincs. Nem <u>pld.</u>. Lehetőleg inkább írd ki, hogy *például*. |- | ***projekt*** | j és k betűkkel. |- | ***protokoll*** | k, majd két l. |- | ***robusztus*** | Középen u betűvel. |- | ***s a többi*** | Három szóban, nem egybe. |- | ***semmilyen*** | Két m. |- | ***szimbolikus*** | Rövid o. |- | ***szintaxis*** | x betűvel. |- | ***típus*** | Hosszú í. |- | ***ún.*** | A végén van pont, de a közepén nincs. Hosszú ú. |- | ***utána*** | Egy n. |- | ***utolsó, utoljára*** | Rövid o. |- | ***video- (videokártya, videomód, videomagnó, videokamera, video-CD)*** | szóösszetételben, illetve jelzőként rövid o. Egyedül az önálló szóként, videomagnó értelemben elterjedt ***videó*** szó van hosszú ó-val. |- | ***vö.*** | A végén van pont, de a közepén nincs.|
+|-|-|
+| ***0-s, 2.4.0-s kernel, 4.2.0-s X-kiszolgáló, 1.0-s UHU Linux*** | Nincsen benne á betű. Minden más (nem 0-val végződő) szám után van kötőhangzó. |
+| ***0-t, 1-et, 2-t ...*** | |
+| ***8 bites, 16 bites*** | Külön írandó. Betűvel: nyolcbites, tizenhat bites. |
+| ***addig*** | Rövid i. |
+| ***amíg*** | Hosszú í. |
+| ***aposztróf*** | Hosszú ó. |
+| ***attribútum*** | Hosszú ú. |
+| ***audio-*** | Rövid o. Lásd video. Például: ***audio-CD***. |
+| ***bal oldal, bal oldali, bal oldalon*** | két szó. (A politikai értelemben vett *baloldal* van egybe írva.) |
+| ***baloldalt*** | „Bal oldalon” értelemben egy szó. |
+| ***bocsát*** | Nincsen benne j betű. |
+| ***címke*** | Hosszú í. |
+| ***egyelőre*** | nincs benne n betű, a szónak semmi köze az egyenlő szóhoz. (Ha a tortát szeletelem, akkor azt tíz részre osztom, méghozzá tíz egyenlőre. De én biztos vagyok benne, hogy te nem ezt a szót akarod használni.) |
+| ***elöl*** | Valami nem hátul van, hanem elöl. Kezdjük ***elölről***. Elöl ül a masiniszta...De: |
+| ***elől*** | Menekül valaki elől. |
+| ***e-mail, e-mailen, e-mailezés*** | Az *e-mail* szótő kötőjelet tartalmaz, a ragokat kötőjel nélkül kapcsoljuk. |
+| ***e-mail cím, e-mail kapcsolat*** | Külön. |
+| ***ezenfelül, ezenkívül (és még, továbbá értelemben)*** | Egy szó. |
+| ***hajlékonylemez*** | Egy szó. |
+| ***internet*** | Kis i, nem tulajdonnév. Régebben az volt, most már nem. |
+| ***internetelérés*** | Csak hat szótag, ezért egyben van. |
+| ***internet-hozzáférés*** | Kötőjellel. |
+| ***irt*** (jelen idejű ige) | Rövid i. ***Vírusirtó*** |
+| ***kiváló*** | Rövid i. |
+| ***kíván, kíváncsi*** | Hosszú í. |
+| ***kisbetű*** | Ha azt kell kifejezni, hogy abcde és nem ABCDE, akkor egy szó. Ha esetleg nagyítóval alig olvasható szövegről van szó, <small>Mint Ez Itt</small> (ami persze tartalmazhat kis- és és nagybetűket is), akkor ez a szöveg ***kis betűkkel*** van írva. |
+| ***l.*** | =lásd. Nem <u>ld.</u> és nem is <u>lsd.</u>. Ne használjuk, írjuk ki, hogy ***lásd***. |
+| ***licenc, licence, licencet, licenccel, licencel*** | Nem <u>licensz</u> és nem is <u>liszensz!</u> (Az angol alak license, tehát például GPL = General Public License, ezt nem fordítjuk le magyarra.) A magyarba német közvetítéssel jutott. |
+| ***merevlemez*** | Egy szó. |
+| ***minél*** | Egy n. Minél több, annál jobb. |
+| ***muszáj*** | Pontos j, de egyébként se használjuk ezt a szót írott nyelvben. |
+| ***partíció*** | Hosszú í. |
+| ***particionál, particionálás*** | Rövid i. |
+| ***pl.*** | = például. A végén van pont, hamarabb nincs. Nem <u>pld.</u>. Lehetőleg inkább írd ki, hogy *például*. |
+| ***projekt*** | j és k betűkkel. |
+| ***protokoll*** | k, majd két l. |
+| ***robusztus*** | Középen u betűvel. |
+| ***s a többi*** | Három szóban, nem egybe. |
+| ***semmilyen*** | Két m. |
+| ***szimbolikus*** | Rövid o. |
+| ***szintaxis*** | x betűvel. |
+| ***típus*** | Hosszú í. |
+| ***ún.*** | A végén van pont, de a közepén nincs. Hosszú ú. |
+| ***utána*** | Egy n. |
+| ***utolsó, utoljára*** | Rövid o. |
+| ***video- (videokártya, videomód, videomagnó, videokamera, video-CD)*** | szóösszetételben, illetve jelzőként rövid o. Egyedül az önálló szóként, videomagnó értelemben elterjedt ***videó*** szó van hosszú ó-val. |
+| ***vö.*** | A végén van pont, de a közepén nincs.|
