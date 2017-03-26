@@ -1,0 +1,10 @@
+{{ForditasHogyanMenu}}
+
+
+* [http://forditas.fsf.hu/html/Utmutato.html Fordítási útmutató - Szabad szoftverek magyarításához]: Ezen dokumentum alapja, továbbfejlesztése (terveink szerint) ezen wikiben fog folyni. 
+* [http://forditas.fsf.hu/huspell-po.html PO-fájlok helyesírás-ellenőrzése]
+* [http://tldp.fsf.hu/Forditas-HOGYAN/Forditas-HOGYAN.html Fordítás HOGYAN]: a TLDP útmutatója
+* [http://www.microsoft.com/globaldev/tools/MILSGlossary.mspx Letölthető, többnyelvű Microsoft Glossary] - utf-8-ra alakítás és a többi nyelv fordításainak törlése (táblázatkezelők kezelik) után egyszerűen grepelhető, hasznos ha valami nagyon ritka kifejezés esetleges megfelelőit keressük. Az átalakításhoz használható parancs: iconv -f utf-16 -t utf-8 msg.csv > u8_msg.csv  
+* [http://www.microsoft.com/language/en/us/search.mspx Kereshető, szabadon hozzáférhető, online Microsoft Glossary]
+* [http://open-tran.eu/ Kereshető, nyílt forrású szoftverek fordításait tartalmazó adatbázis]
+* [http://mek.oszk.hu/01500/01547/index.phtml A magyar helyesírás szabályai (Magyar Elektronikus Könyvtár - MEK-01547)]
