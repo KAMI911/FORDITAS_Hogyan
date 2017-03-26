@@ -1,27 +1,27 @@
-A magyar helyesírás ismerete, fordítókról lévén szó, egyike a legalapvetőbb követelményeknek. A mindenre kiterjedő útmutatás nem is lehet ennek a rövid ismertetőnek a feladata, a legtöbb gondot okozó témakörökre mégis fel szeretnénk hívni a figyelmet, megemlítve a legfontosabb szabályokat. Bárminemű kétely esetén – és egyébként is – tudjuk ajánlani „A magyar helyesírás szabályai” című könyvet. A jelenleg érvényben lévő szabályzat 1984-ben készült, körülbelül évente jelenik meg új lenyomat belőle, amelyek időnként példaanyagukban frissülnek.
+# Helyesírás
 
--val, -vel
-==========
+A magyar helyesírás ismerete, fordítókról lévén szó, egyike a legalapvetőbb követelményeknek. A mindenre kiterjedő útmutatás nem is lehet ennek a rövid ismertetőnek a feladata, a legtöbb gondot okozó témakörökre mégis fel szeretnénk hívni a figyelmet, megemlítve a legfontosabb szabályokat. Bárminemű kétely esetén – és egyébként is – tudjuk ajánlani „[A magyar helyesírás szabályai](http://helyesiras.mta.hu/helyesiras/default/akh12)” című könyvet.
 
-Népbetegség a *-val, -vel* rag és a teljes hasonulás hibás használata. Pedig nincsen szó másról, mint arról, hogy egy meg egy az kettő, illetve kettőből egy az egy. Ha egyszer azt mondjuk, hogy *egy* és hogy *eggyel*, akkor a kettő különbsége az, hogy *gyel*, tehát a leírt alak ***1-gyel***. Ha azt mondjuk, hogy *necckép* és *neccképpel*, akkor a kettő különbsége *pel*, tehát a helyes leírt alak ***Netscape-pel*** lesz. Ha azt mondjuk, hogy *százalék* és *százalékkal* (és egyszer sem mondjuk sem azt, hogy *százalékk*, sem azt, hogy *százalékal*), akkor a kettő különbsége *kal*, vagyis a leírt alak ***%-kal*** lesz. A lényeg az, hogy a ragot mindig a szó kiejtett alakjához, és nem a leírthoz kell igazítani, figyelve a szimpla és dupla mássalhangzók kiejtésében is érezhető különbségre.
+## Gyakori hibák
+
+### Teljes hasonulás
+
+Ha egyszer azt mondjuk, hogy *egy* és hogy *eggyel*, akkor a kettő különbsége az, hogy *gyel*, tehát a leírt alak ***1-gyel***. Ha azt mondjuk, hogy *necckép* és *neccképpel*, akkor a kettő különbsége *pel*, tehát a helyes leírt alak ***Netscape-pel*** lesz. Ha azt mondjuk, hogy *százalék* és *százalékkal* (és egyszer sem mondjuk sem azt, hogy *százalékk*, sem azt, hogy *százalékal*), akkor a kettő különbsége *kal*, vagyis a leírt alak ***%-kal*** lesz. A lényeg az, hogy a ragot mindig a szó kiejtett alakjához, és nem a leírthoz kell igazítani, figyelve a szimpla és dupla mássalhangzók kiejtésében is érezhető különbségre.
 
 A *-val, -vel*, valamint a *-vá, -vé* rag *v* betűje, amennyiben a szótő kiejtése mássalhangzóra végződik, a kiejtett (és nem a leírt) záró mássalhangzóhoz hasonul. Lássunk példákat a helyes használatra:
 
-<div style="overflow:hidden">
 ` * `**`1-gyel,` `2-vel,` `3-mal,` `4-gyel,` `5-tel,` `10-zel,` `20-szal,` `30-cal,` `100-zal,` `1000-rel`**`, ...`
-` * `**`Linuxszal,` `Windowszal,` `YaST-tal,` `Netscape-pel,` `Internet` `Explorerrel,` `Oracle-lel,` `Macintoshsal,` `X-szel,` `GNOME-mal,` `StarOffice-szal`**`, ...`
+` * `**`Linuxszal,` `Windowszal,` `YaST-tal,` `Netscape-pel,` `Internet` `Explorerrel,` `Oracle-lel,` `Macintoshsal,` `X-szel,` `GNOME-mal,` `LibreOffice-szal`**`, ...`
 ` * `**`%-kal`**` (százalékkal), `**`@-cal`**` (kukaccal), ...`
 ` * `**`n-nel`**`, `**`2`<sup>`n`</sup>`-nel`**` (kettő az n-edikennel), `**`n`<sup>`3`</sup>`-nal`**` (n a harmadikonnal) vagy `**`n`<sup>`3`</sup>`-nel`**` (n a köbönnel) vagy `**`n`<sup>`3`</sup>`-bel`**` (n köbbel), esetleg `**`n`<sup>`3`</sup>`-mal`**` (n ad hárommal), de mindenképpen az egyik lehetséges kiejtéshez kell a ragot igazítanunk, ...`
 
-</div>
 Sok esetben nem egyértelmű, hogy milyen hangzóra is végződik az angol szó kiejtése. Az írásban *s*-re végződ angol szavak kiejtése általában *z* hanggal végződik (pl. *windows*), de vannak szavak, melyek kiejtése *sz*-szel zárul (pl. *case*). Nem egyértelmű az sem, hogy például az *Apple* kiejtése *l* vagy *ö* hangra, a *delay* kiejtése *é* vagy *j* hangra végződik stb. Ilyenkor törekedjünk a kerülő megfogalmazásra, hogy a kérdéses szó ne kapjon ragot (például <u>delay-jel</u> helyett **delay kapcsolóval**, <u>Apple-lel</u> helyett **Apple számítógéppel**, <u>use case-szel</u> helyett **use case diagrammal**).
 
-Egybeírás, különírás
-====================
+### Egybeírás, különírás
 
 Az alanyos, minőségjelzős és mennyiségjelzős viszonyban lévő szókapcsolatokat (tehát azokat, amelyekben az összetétel tagjai között alanyi, illetve mennyiség- vagy minőségjelzői kapcsolat van) általában külön írjuk: ***gondatlanság okozta kár*** (alanyos), ***jobb oldal*** (minőségjelzős), ***száz forint*** (mennyiségjelzős).
 
--   Mindhárom típusú szerkezetet egybeírjuk azonban, ha az összetétel jelentése eltér a tagok jelentésének összegétől: ***nyakatekert &lt;&gt; kitekert nyakú*** (alanyos), ***gyorsvonat &lt;&gt; gyors vonat*** (minőségjelzős), ***háromszög &lt;&gt; három szög*** (mennyiségjelzős).
+-   Mindhárom típusú szerkezetet egybeírjuk azonban, ha az összetétel jelentése eltér a tagok jelentésének összegétől:p ***nyakatekert <> kitekert nyakú*** (alanyos), ***gyorsvonat <> gyors vonat*** (minőségjelzős), ***háromszög <> három szög*** (mennyiségjelzős).
 -   A hagyomány szerint számos ilyen szerkezetet egybe írunk jelentésváltozás nélkül is: ***napsütötte*** (táj), ***szúette*** (bútor) (alanyos), ***nagyfokú*** (udvariatlanság), ***útitárs*** (minőségjelzős).
 -   A jelzőként szolgáló mennyiségjelzős kapcsolatokat abban az esetben írjuk egybe, ha az összetétel mindkét tagja egyszerű (azaz nem összetett) szó: ***százéves ember***, ***nyolcbites egység***, ***ötnapos csecsemő***.
 -   Ha azonban akár az egyik, akár a másik tag összetett szó, a szerkezet külön írandó: ***százöt éves ember***, ***nyolc megabites egység***, ***öt hónapos gyermek***.
@@ -47,13 +47,9 @@ A betűszókhoz és a tulajdonnévi szóösszevonásokhoz kötőjellel fűzzük 
 
 Nem kötőjelesek a következők: ***XFree86 kiszolgáló***, ***TCP/IP protokoll*** stb., hiszen itt bizonyos dolgok (kiszolgáló, protokoll) egy adott névvel ellátott típusáról van szó.
 
-Írásjelek
-=========
+### Írásjelek
 
-Az írásjelekkel kapcsolatos szabályok közül is csupán azokat említjük meg, amelyek az eddigiekben viszonylag gyakran okoztak gondot.
-
-A vessző
---------
+#### A vessző
 
 Az egyik leggyakoribb hibaforrás az *és*, *vagy*, *s* és *meg* kötőszó előtti vessző. A helyesírási szabályzat szerint ha egy ilyen kötőszó két azonos szerepű mondatrész között áll, akkor előtte nem található vessző. Például: ***A vacsorán levest, húst és desszertet szolgáltak fel.*** (Ugyanezen ok miatt a felsorolásban lévő *stb.* elé sem teszünk vesszőt, hiszen ez a *s a többi* kifejezés rövidítése.)
 
@@ -71,13 +67,11 @@ Ehelyett sokkal tisztább és gördülékenyebb megoldás a következő:
 
 Az *illetve* szó előtt mindig van vessző.
 
-Írásjel felszólító mondat végén
--------------------------------
+#### Írásjel felszólító mondat végén
 
 Az általános iskolában megtanították, hogy felszólító mondat végére felkiáltójelet teszünk. Ez nem mindig van így. Felkiáltó és óhajtó mondat végén valóban általában felkiáltójel található. Felszólító mondat végére is felkiáltójelet teszünk, ha például párbeszédben hangzik el a felszólítás. Dokumentáció jellegű könyvben azonban sohasem. Ahelyett, hogy „<u>Nyissuk meg a fájlt!</u>”, azt kell írni, hogy „***Nyissuk meg a fájlt.***”. Szakácskönyvben sem írják azt, hogy „<u>Végy két tojást!</u>”, csak azt, hogy „***Végy két tojást.***”. Természetesen felkiáltó mondat végén a könyvekben is a felkiáltójelet használunk. „***Figyelem! Ezzel tönkreteheti monitorát!***”
 
-Írásjel összetett mondat végén
-------------------------------
+#### Írásjel összetett mondat végén
 
 Összetett mondat végén mindig a főmondathoz igazítjuk az írásjelet.
 
@@ -87,12 +81,11 @@ Ez nem kérdő mondat. Nem kérdezzük meg a felhasználót, hogy telepítve van
 
 A fenti mondat kérdőjellel is értelmes lehet, de nem könyvben vagy program fordításában. Ha ketten arról tanakodnak, hogy vajon egyáltalán megnézzék-e, hogy telepítve van-e a csomag, akkor hangozhat el egyikőjük szájából ez a mondat kérdő hangsúllyal (értsd: a „nézzük meg” tagmondat is kérdő hangsúlyú). Ilyenkor nem megkéri a másikat, hogy adják ki az „rpm -q xblast” vagy „dpkg -s xblast” parancsot, hanem megkérdezi tőle, hogy szerinte egyáltalán van-e értelme bepötyögni ezt a parancsot. (És igen, az előző mondat is egy kijelentő mondat volt.)
 
-Vízszintes vonal
-----------------
+#### Vízszintes vonal
 
 Írógépen több jelet is a kötőjel (-, diviz) karakterrel jelölnek, de ma már lehetőség van ennél pontosabb írásjelhasználatra is.
 
-### Kötőjel (**-**, diviz)
+#### Kötőjel (**-**, diviz)
 
 Használható
 
@@ -102,7 +95,7 @@ Használható
 -   elválasztás (számítógépen hagyományos kötőjel begépelésével **nem** használjuk);
 -   hozzávetőleges számintervallumok (**már 3-400 gigabyte-os merevlemezek is vannak**) jelölésére.
 
-### Nagykötőjel (**–**, &ndash;, félkvirtmínusz)
+#### Nagykötőjel (**–**, &ndash;, félkvirtmínusz)
 
 Viszonylatok, *valamettől valameddig* viszonyt kifejező szókapcsolatok, intervallumok jelölésére: **Budapest–Hegyeshalom vasútvonal, Neumann u. 4–6., 0–50 km/h**.
 
@@ -112,7 +105,7 @@ Géptípusok betű- és számjelzése közé: **MINSZK–22-vel** (toldalék kö
 
 De kivételesen **MINSZK–22 – RAZDAN–3 inkompatibilitás**.
 
-### Gondolatjel (**–**, &ndash;, félkvirtmínusz)
+#### Gondolatjel (**–**, &ndash;, félkvirtmínusz)
 
 *A gondolatjel formailag az elé és mögé tapadó szóközben tér el a nagykötőjeltől. A brit tipográfiából ismert kvirtmínuszt (—) nem használjuk.*
 
@@ -122,12 +115,11 @@ Használható
 -   közbevetés – melyet vesszőkkel vagy zárójelekkel is keretezhetünk – jelölésére;
 -   idézetek, párbeszédek szedésére.
 
-### Mínuszjel (**−**, &minus;)
+#### Mínuszjel (**−**, &minus;)
 
 Negatív előjel és kivonás jelölésére használjuk. Elvileg illeszkedik az összeadásjel megjelenéséhez. **−3**, **3 − (1 + 2)**
 
-Felsorolások helyesírása
-------------------------
+### Felsorolások helyesírása
 
 Ha a felsorolás egyes elemei önálló mondatot alkotnak, minden tagot nagybetűvel kezdünk, és minden tag végére pont kerül.
 
@@ -150,8 +142,7 @@ Ha az elemek egyáltalán nem alkotnak mondatot, akkor a felsorolás tagjai nagy
 ` *`*`'` `Mutató`*`'`
 ` *`*`'` `Bal` `oldali` `gomb`*`'`
 
-Pont a szám után
-----------------
+### Pont a szám után
 
 A számmal írt sorszámnevek után minden esetben pont áll: **3. osztály, 3.-os tanuló, XI. kerület**. Különösen ügyelni kell erre a szabályra a lépéssorozatok számozásánál, itt ugyanis az angol általában nem teszi ki a pontot.
 
@@ -164,8 +155,7 @@ Az évszámot követő pont elhagyandó, ha az évszámot
 -   az évszám egy birtokos szerkezet eleme; **1969 nyara**
 -   az évszám a mondat alanya. **1991 a Linux születésének éve**
 
-Idegen szavak helyesírása
-=========================
+### Idegen szavak helyesírása
 
 A programokban előforduló idegen szavak leírásával kapcsolatban, lévén vagy lefordítjuk, vagy eredeti alakjukban vesszük át őket, általában csak a toldalékolás jelent gondot. Erre nézve egy szabályt és egy ajánlást említenénk meg:
 
@@ -186,16 +176,19 @@ A számítástechnikai szövegekben igen sok angol betűszó (pl. TCP/IP) szerep
 -   Lehetőleg próbáljuk elkerülni a betűszavak ragozását – ez a mondat megfelelő szerkesztésével sokszor megoldható.
 -   Ha mégis elkerülhetetlen ragozni, lehetőleg a szó magyar kiejtési szabálya szerinti toldalékot válasszuk: **WAN-nal**, nem pedig WAN-nel. Ettől csak akkor térjünk el, ha az illető szó angol hangalakja már teljesen meggyökeresedett – legalább a szaknyelvben: **DOS-szal** (nem DOS-sal).
 
-A cím
-=====
+#### Projekt specifikus tudnivalók
 
-A címekkel kapcsolatban is megemlítenénk két alapszabályt:
+A GNOME projekt esetén az egyes beépített alkalmazások neveit is lefordítjuk. Például:GNOME Photos → GNOME Fényképek, GNOME Builder → GNOME Építő.
+A Mozilla projektek neveit nem fordítjuk le. Például Mozilla Firefox, Mozilla Thunderbird, Mozilla Thimble és nem: ~~Tűzróka~~, ~~Vörös panda~~, ~~Viharmadár~~, ~~Gyűszű~~.
+
+### Címek
+
+A címekkel kapcsolatban kiemelnénk két alapszabályt:
 
 -   Legyen szó akár egy teljes mondat értékével bíró címről, végére semmi esetre sem kerül pont. Ha a cím esetleg több mondatos, akkor az utolsót megelőző mondatokat ponttal zárjuk.
--   Az angoltól eltérően a magyar címben csak az első szó kezdődik nagybetűvel, a többi, ha nincs rá különleges ok, marad kisbetűs. (Ez alól kivétel az időszaki kiadványok állandó címe.)
+-   Az angoltól eltérően a magyar címben csak az első szó kezdődik nagybetűvel, a többi, ha nincs rá különleges ok (például: tulajdnonév), marad kisbetűs. (Ez alól kivétel az időszaki kiadványok állandó címe.)
 
-Számjegyek tagolása, mértékegységek
-===================================
+### Számjegyek tagolása, mértékegységek
 
 A programok dokumentációjában helyenként nagyon sok szám van, és sajnos sokan még csak nem is gondolnak arra, hogy ezek helyesírása is eltérhet az angol normáktól. Két lényeges különbség van:
 
@@ -207,10 +200,9 @@ Az öt és annál többjegyű számokat nem vesszővel, hanem szóközzel (mégp
 
 ` `***`14,000b/s`***` (angol) – `***`14` `000` `b/s`***` (magyar) `
 
-A mértékegységek legalább ilyen gyakoriak. Az angollal szembeni legfontosabb különbség, hogy a szám és a mértékegységet jelölő rövidítés közé (kötött) szóközt kell tenni: ***100 Mb/s*** (nem 100Mb/s).
+A mértékegységek legalább ilyen gyakoriak. Az angollal szembeni legfontosabb különbség, hogy a szám és a mértékegységet jelölő rövidítés közé (kötött) szóközt kell tenni: ***100 Mb/s*** és nem ~~100Mb/s~~).
 
-Tulajdonnévből képzett melléknév
-================================
+### Tulajdonnévből képzett melléknév
 
 A mellékneveket kisbetűvel írjuk, ily módon az egyszavas tulajdonnévből származó mellékneveket is: linuxos, windowsos, ...
 
@@ -222,22 +214,19 @@ Az imént látott kötőjel csak képzőkre vonatkozik (melyek a szófajt mellé
 
 ` `***`UHU` `Linuxot,` `UHU` `Linux-os`***`.`
 
-Hangzóhosszabbodás
-==================
+### Hangzóhosszabbodás
 
 Ha rövid magánhangzóra végződik a szó, és rag illesztésekor ez a hangzó hosszúvá válik vagy ékezetet kap, akkor ezt írásban is tükrözni kell. ***Goethével, Coca-Colát, Oslóban***, ...
 
 Ez nem vonatkozik a csupa nagybetűvel írt betűszókra. ***BME-n, ELTE-n, MTA-val***, ...
 
-Balról jobbra
-=============
+### Balról jobbra
 
 ` `***`Balról` `jobbra.` `Hétfőtől` `péntekig.` `Egytől` `egyig.` `Makótól` `Jeruzsálemig.` `Lépésről` `lépésre.` `Időről` `időre.` `Várva` `várt.` `Szebbnél` `szebb.` `Szemtől` `szembe.` `Fej` `fej` `mellett.`***` ...`
 
 Nincsen kötőjel! Semmi nem indokolná, hogy legyen.
 
-Anélkül, a nélkül
-=================
+### Anélkül, a nélkül
 
 Különírjuk, ha az a vagy e egy (alanyra mutató) mutatószó, például:
 
@@ -253,7 +242,7 @@ Egybeírjuk, ha határozószó, vagyis ha az a vagy e nem értelmezhető mutató
 
 ` `***`Már` `megint` `játszol,` `ehelyett` `igazán` `csinálhatnál` `valami` `értelmesebbet.`***
 
-A leggyakrabban rosszul írt szavak szótára
-==========================================
+### A leggyakrabban rosszul írt szavak szótára
 
-{ ! helyes használat !! magyarázat |- | ***0-s, 2.4.0-s kernel, 4.2.0-s X-kiszolgáló, 1.0-s UHU Linux*** | Nincsen benne á betű. Minden más (nem 0-val végződő) szám után van kötőhangzó. |- | ***0-t, 1-et, 2-t ...*** | |- | ***8 bites, 16 bites*** | Külön írandó. Betűvel: nyolcbites, tizenhat bites. |- | ***addig*** | Rövid i. |- | ***amíg*** | Hosszú í. |- | ***aposztróf*** | Hosszú ó. |- | ***attribútum*** | Hosszú ú. |- | ***audio-*** | Rövid o. Lásd video. Például: ***audio-CD***. |- | ***bal oldal, bal oldali, bal oldalon*** | két szó. (A politikai értelemben vett *baloldal* van egybe írva.) |- | ***baloldalt*** | „Bal oldalon” értelemben egy szó. |- | ***bocsát*** | Nincsen benne j betű. |- | ***címke*** | Hosszú í. |- | ***egyelőre*** | nincs benne n betű, a szónak semmi köze az egyenlő szóhoz. (Ha a tortát szeletelem, akkor azt tíz részre osztom, méghozzá tíz egyenlőre. De én biztos vagyok benne, hogy te nem ezt a szót akarod használni.) |- | ***elöl*** | Valami nem hátul van, hanem elöl. Kezdjük ***elölről***. Elöl ül a masiniszta...De: |- | ***elől*** | Menekül valaki elől. |- | ***e-mail, e-mailen, e-mailezés*** | Az *e-mail* szótő kötőjelet tartalmaz, a ragokat kötőjel nélkül kapcsoljuk. |- | ***e-mail cím, e-mail kapcsolat*** | Külön. |- | ***ezenfelül, ezenkívül (és még, továbbá értelemben)*** | Egy szó. |- | ***hajlékonylemez*** | Egy szó. |- | ***internet*** | Kis i, nem tulajdonnév. Régebben az volt, most már nem. |- | ***internetelérés*** | Csak hat szótag, ezért egyben van. |- | ***internet-hozzáférés*** | Kötőjellel. |- | ***irt*** (jelen idejű ige) | Rövid i. ***Vírusirtó*** |- | ***kiváló*** | Rövid i. |- | ***kíván, kíváncsi*** | Hosszú í. |- | ***kisbetű*** | Ha azt kell kifejezni, hogy abcde és nem ABCDE, akkor egy szó. Ha esetleg nagyítóval alig olvasható szövegről van szó, <small>Mint Ez Itt</small> (ami persze tartalmazhat kis- és és nagybetűket is), akkor ez a szöveg ***kis betűkkel*** van írva. |- | ***l.*** | =lásd. Nem <u>ld.</u> és nem is <u>lsd.</u>. Ne használjuk, írjuk ki, hogy ***lásd***. |- | ***licenc, licence, licencet, licenccel, licencel*** | Nem <u>licensz</u> és nem is <u>liszensz!</u> (Az angol alak license, tehát például GPL = General Public License, ezt nem fordítjuk le magyarra.) A magyarba német közvetítéssel jutott. |- | ***merevlemez*** | Egy szó. |- | ***minél*** | Egy n. Minél több, annál jobb. |- | ***muszáj*** | Pontos j, de egyébként se használjuk ezt a szót írott nyelvben. |- | ***partíció*** | Hosszú í. |- | ***particionál, particionálás*** | Rövid i. |- | ***pl.*** | = például. A végén van pont, hamarabb nincs. Nem <u>pld.</u>. Lehetőleg inkább írd ki, hogy *például*. |- | ***projekt*** | j és k betűkkel. |- | ***protokoll*** | k, majd két l. |- | ***robusztus*** | Középen u betűvel. |- | ***s a többi*** | Három szóban, nem egybe. |- | ***semmilyen*** | Két m. |- | ***szimbolikus*** | Rövid o. |- | ***szintaxis*** | x betűvel. |- | ***típus*** | Hosszú í. |- | ***ún.*** | A végén van pont, de a közepén nincs. Hosszú ú. |- | ***utána*** | Egy n. |- | ***utolsó, utoljára*** | Rövid o. |- | ***video- (videokártya, videomód, videomagnó, videokamera, video-CD)*** | szóösszetételben, illetve jelzőként rövid o. Egyedül az önálló szóként, videomagnó értelemben elterjedt ***videó*** szó van hosszú ó-val. |- | ***vö.*** | A végén van pont, de a közepén nincs. |}
+|helyes használat|magyarázat|
+| ***0-s, 2.4.0-s kernel, 4.2.0-s X-kiszolgáló, 1.0-s UHU Linux*** | Nincsen benne á betű. Minden más (nem 0-val végződő) szám után van kötőhangzó. |- | ***0-t, 1-et, 2-t ...*** | |- | ***8 bites, 16 bites*** | Külön írandó. Betűvel: nyolcbites, tizenhat bites. |- | ***addig*** | Rövid i. |- | ***amíg*** | Hosszú í. |- | ***aposztróf*** | Hosszú ó. |- | ***attribútum*** | Hosszú ú. |- | ***audio-*** | Rövid o. Lásd video. Például: ***audio-CD***. |- | ***bal oldal, bal oldali, bal oldalon*** | két szó. (A politikai értelemben vett *baloldal* van egybe írva.) |- | ***baloldalt*** | „Bal oldalon” értelemben egy szó. |- | ***bocsát*** | Nincsen benne j betű. |- | ***címke*** | Hosszú í. |- | ***egyelőre*** | nincs benne n betű, a szónak semmi köze az egyenlő szóhoz. (Ha a tortát szeletelem, akkor azt tíz részre osztom, méghozzá tíz egyenlőre. De én biztos vagyok benne, hogy te nem ezt a szót akarod használni.) |- | ***elöl*** | Valami nem hátul van, hanem elöl. Kezdjük ***elölről***. Elöl ül a masiniszta...De: |- | ***elől*** | Menekül valaki elől. |- | ***e-mail, e-mailen, e-mailezés*** | Az *e-mail* szótő kötőjelet tartalmaz, a ragokat kötőjel nélkül kapcsoljuk. |- | ***e-mail cím, e-mail kapcsolat*** | Külön. |- | ***ezenfelül, ezenkívül (és még, továbbá értelemben)*** | Egy szó. |- | ***hajlékonylemez*** | Egy szó. |- | ***internet*** | Kis i, nem tulajdonnév. Régebben az volt, most már nem. |- | ***internetelérés*** | Csak hat szótag, ezért egyben van. |- | ***internet-hozzáférés*** | Kötőjellel. |- | ***irt*** (jelen idejű ige) | Rövid i. ***Vírusirtó*** |- | ***kiváló*** | Rövid i. |- | ***kíván, kíváncsi*** | Hosszú í. |- | ***kisbetű*** | Ha azt kell kifejezni, hogy abcde és nem ABCDE, akkor egy szó. Ha esetleg nagyítóval alig olvasható szövegről van szó, <small>Mint Ez Itt</small> (ami persze tartalmazhat kis- és és nagybetűket is), akkor ez a szöveg ***kis betűkkel*** van írva. |- | ***l.*** | =lásd. Nem <u>ld.</u> és nem is <u>lsd.</u>. Ne használjuk, írjuk ki, hogy ***lásd***. |- | ***licenc, licence, licencet, licenccel, licencel*** | Nem <u>licensz</u> és nem is <u>liszensz!</u> (Az angol alak license, tehát például GPL = General Public License, ezt nem fordítjuk le magyarra.) A magyarba német közvetítéssel jutott. |- | ***merevlemez*** | Egy szó. |- | ***minél*** | Egy n. Minél több, annál jobb. |- | ***muszáj*** | Pontos j, de egyébként se használjuk ezt a szót írott nyelvben. |- | ***partíció*** | Hosszú í. |- | ***particionál, particionálás*** | Rövid i. |- | ***pl.*** | = például. A végén van pont, hamarabb nincs. Nem <u>pld.</u>. Lehetőleg inkább írd ki, hogy *például*. |- | ***projekt*** | j és k betűkkel. |- | ***protokoll*** | k, majd két l. |- | ***robusztus*** | Középen u betűvel. |- | ***s a többi*** | Három szóban, nem egybe. |- | ***semmilyen*** | Két m. |- | ***szimbolikus*** | Rövid o. |- | ***szintaxis*** | x betűvel. |- | ***típus*** | Hosszú í. |- | ***ún.*** | A végén van pont, de a közepén nincs. Hosszú ú. |- | ***utána*** | Egy n. |- | ***utolsó, utoljára*** | Rövid o. |- | ***video- (videokártya, videomód, videomagnó, videokamera, video-CD)*** | szóösszetételben, illetve jelzőként rövid o. Egyedül az önálló szóként, videomagnó értelemben elterjedt ***videó*** szó van hosszú ó-val. |- | ***vö.*** | A végén van pont, de a közepén nincs.|
