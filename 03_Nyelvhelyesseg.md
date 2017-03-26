@@ -1,7 +1,6 @@
-Ami, amely
-==========
+# Nyelvhelyesség
 
-Mindenekelőtt néhány szörnyen gyakori pongyolaságra kell felhívni a figyelmet. Ezek között is az első az ami és az amely névmás hibás használata. Egy magára valamit is adó szövegben a kettőt szigorúan meg kell különböztetni, a következő – szinte mindig alkalmazható – alapszabály szerint:
+## Ami, amely
 
 Az amely a mellékmondat alanyára utal vissza, így konkrétan meghatározott dolgot kapcsol a főmondathoz:
 
@@ -25,8 +24,7 @@ Az ami viszont közelebbről meg nem határozott, általában főnévvel meg nem
 </div>
 A személyre vonatkozó aki névmás élettelen megfelelője tehát az amely, és nem az ami.
 
-Főnévi igenevek
-===============
+## Főnévi igenevek
 
 Másik hasonlóan általános lazaság a „csupasz” főnévi igenév.
 
@@ -38,66 +36,58 @@ Ebben a példában nem lehet tudni, hogy a választ a közgazdász adja, vagy ő
 
 A fenti példában a csupasz főnévi igenév értelmi zavart okoz, de a ragozott alak olyan esetekben is elegánsabb, amikor a hiánya sem vezet félreértéshez.
 
-Mondatkezdés
-============
+## Mondatkezdés
 
-Ahogyan *és*sel nem kezdünk mondatot, ugyanúgy az ***azonban, viszont, illetve*** szavaknak sincs semmi keresnivalójuk mondat elején.
+Ahogyan *és*sel nem kezdünk mondatot, ugyanúgy az ***azonban, viszont, illetve, hát*** szavakkal sem kezdünk mondatot
 
-Rövidítések
-===========
+## Rövidítések
 
 Rövidítéseket, ha csak egy mód van rá, ne használjunk. Inkább írjuk ki a ***például, illetve, lásd*** szavakat, mintsem a rövidített <u>pl.</u>, <u>ill.</u>, <u>l.</u> alakjukat használjuk. Az ***stb.*** természetesen mehet, mert erre nincs más lehetőség (illetve elvileg ki lehet írni, hogy „s a többi” (három szó!), de ez nem olyan szerencsés). Az ***ún.***, ***vö.***, ***ti.*** rövidítések is nyugodtan használhatók.
 
-Akar
-====
+## Akar
 
-Több helyen megy hosszú bekezdéseken keresztül, hogy „ha ezt akarjuk, csináljuk ezt. Ha azt akarjuk, csináljuk azt. Ha amazt akarjuk...”. Ez nagyon rosszul hangzik. Kéretik változatosan használni az ***akar***, ***szeretne***, ***kíván***, néha esetleg ***óhajt*** vagy ***szándékozik*** szavakat, illetve egyéb megfogalmazásokat is (pl. ***ha ez a célunk***...).
+Több helyen megy hosszú bekezdéseken keresztül, hogy „ha ezt akarjuk, csináljuk ezt. Ha azt akarjuk, csináljuk azt. Ha amazt akarjuk...”. Ez nagyon rosszul hangzik. Kéretik változatosan használni az ***akar***, ***szeretne***, ***kíván***, néha esetleg ***óhajt*** vagy ***szándékozik*** szavakat, illetve egyéb megfogalmazásokat is (például: ***ha ez a célunk***...).
 
-Igekötők
-========
+## Igekötők
 
 Tendencia, hogy egyre több helyen használunk fölösleges igekötőt. Ezekről le kell szokni.
 
-` leellenőriz –> ellenőriz `
-` feltelepít –> telepít `
-` felcsatol –> csatol `
-` megtapasztal –> tapasztal `
-` legenerál –> generál, de még inkább előállít, elkészít stb. `
-` beintegrál –> integrál `
-` kiexportál –> exportál `
-` elment –> ment`
+* leellenőriz → ellenőriz
+* feltelepít → telepít
+* felcsatol → csatol
+* megtapasztal → tapasztal
+* legenerál → generál, de még inkább előállít, elkészít stb.
+* beintegrál → integrál
+* kiexportál → exportál
+* elment → ment
 
-Elvész
-======
+## Elvész
 
 Ha tönkremegy a lemez, minden adatunk ***elvész***. Nem helytelen az elveszik szó sem, de kevésbé szép, és bizonyos esetekben összetéveszthető az elvenni ige T/3 alakjával. Használjuk inkább az ***elvész*** alakot.
 
-Műveltetés
-==========
+## Műveltetés
 
 Vannak számítástechnikában is elterjedt igék, melyeket úgy használunk, mintha mi végeznénk valamit, holott tulajdonképpen a számítógép végzi el ezeket. Például ***megnyitunk***, ***mentünk***, ***másolunk***, ***átnevezünk***, ***törlünk*** egy fájlt. Ezekben az esetekben teljesen fölösleges, sőt erőltetett és zavaró a műveltető alakkal hangsúlyozni, hogy mi csak megkérjük a gépet ennek elvégzésére. Kerüljük tehát az olyan kifejezéseket, mint <u>mentetjük a fájlt</u>. Írjuk egyszerűen azt, hogy ***mentjük a fájlt***.
 
-Optimális
-=========
+## Optimális
 
 Vannak jelzők, melyek jelentésük alapján már felsőfokban állnak, habár formailag ez nem látszik rajtuk. Ilyen például az ***optimális***, amely azt jelenti, hogy valamilyen szempont(ok) vagy komplex szempontrendszer szerint a legjobb. Ezt a szót teljesen értelmetlen tovább fokozni, középfokú és felsőfokú alakja nem létezik. Ha valaki aki azt mondja, hogy ~~legoptimálisabb~~ (vagyis *leglegjobbabb*), az olyan, mint ha verseny *első helyezettje*, azaz *győztese* helyett azt mondaná valaki, hogy *legelsőbb* vagy *leggyőztesebb*.
 
-Magyar nyelven
-==============
+## Magyar nyelven
 
 Nagyon gyakran találkozni a „magyar nyelven”, „angol nyelven” kifejezésekkel. Ezzel alapvetően semmi baj nincs, de amikor egymáshoz közel sok ilyen van, akkor már zavaró. Használjuk az egyszerűbb „magyarul”, „angolul” szavakat is a fentiek szinonimájaként, máris kevésbé lesz zavaró a szóismétlés, és kevésbé lesz fölöslegesen körülményes a megfogalmazás.
 
 Szerencsésebb azt mondani, hogy egy program „magyarul” szól a felhasználóhoz, mint azt, hogy „magyar nyelven” szól hozzá.
 
-Idegen szavak átírása
-=====================
+## Idegen szavak átírása
+
+TODO: 
 
 (Felmerült, hogy miután a szótárban szerepel a ***kapucsínó*** szó, mint helyes magyar alak, azután ennek a bekezdésnek semmi helye itt. De azért szerintem igenis van...)
 
 Mindig újabb és újabb idegen szavak jelennek meg, melyeket fonetikusan megpróbál valaki átírni. Óvakodjunk ezektől. Ha csak lehet, irtsuk az ~~imidzs~~ meg ehhez hasonló borzalmakat. Ezek a szavak még messze nem annyira részei nyelvünknek, hogy jogos legyen magyarul írni őket. Lehetőség szerint használjuk a magyar terminológiát (jelen konkrét példánál ***lemezkép***), de ha nincs jó magyar szó, vagy az adott szövegkörnyezetben az angol terminológiát kell használni, akkor írjuk le az angolt változatlanul (például ***image***). Megjegyzendő, hogy még a bájt alakot sem vette át a magyar helyesírás, a ***byte*** a helyes magyar írásmód a szótár szerint (a báj szó tárgyragos változata miatt fogadja el a Hunspell). Az ~~imidzs~~ láttán előre rettegek a ~~rútpásszvörd~~, ~~bútolás~~, ~~fréjmbáfför~~, ~~vizárd~~, ~~profájl~~, ~~pájp~~, ~~fléjmelés~~, ~~szájt~~, ~~fúbár~~ meg ehhez hasonló torzszülemények megjelenésétől. Véleményem szerint a ~~domén~~ (vagy akkor már miért nem ~~doméjn~~?) is ebbe a kategóriába tartozik, maradjunk a ***domain*** (de inkább ***tartomány***) írásmódnál.
 
-Az /etc és társai
-=================
+## Az /etc és társai
 
 Könyvtárak, fájlok neve előtt a névelőt úgy tegyük ki, hogy kiejtésben, illetve könyv olvasásakor szinte biztos, hogy az olvasó nem ejti ki képzeletben a „per” szócskát. Tehát:
 
@@ -108,18 +98,16 @@ Könyvtárak, fájlok neve előtt a névelőt úgy tegyük ki, hogy kiejtésben,
 
 Függő kérdés, hogy a(z) /usr milyen névelőt kapjon. A Unix-guruk fele szerint régen itt volt a felhasználók home-ja, így a név a „user” szó rövid alakja, és ezáltal júzer-nek ejtendő, míg másik felük szerint ez egy betűszó, a Unix System Resources rövidítése, vagyis ú-es-er a kiejtés.
 
-Ragozott fájlnevek
-==================
+## Ragozott fájlnevek
 
 Ne ragozzuk a fájlok, könyvtárak nevét, mert ez egyrészt nagyon csúnyán néz ki, másrészt a kiejtéstől is függhet a rag. Tehát ne szerkesszük meg az <u>/etc/lilo.conf-ot</u> a <u>vi-jal</u>, hanem szerkesszük meg az ***/etc/lilo.conf fájlt*** a ***vi szerkesztővel*** (vagy programmal). A jelszóellenőrzés beállítása nem az <u>/etc/pam.d-ben</u>, hanem az ***/etc/pam.d könyvtárban*** található.
 
-További gyakori hibák
-=====================
+## További gyakori hibák
 
 A következőkben számos olyan konkrét fordulatot sorolunk fel, melyek igen gyakran fordulnak elő, és amelyek fordítása sokszor „hibás”.
 
-| helytelen                                                                                         | helyes                                                                                             | magyarázat                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| helytelen|helyes|magyarázat|
+|-|-|-|
 | Itt látható a hálózati <u>nyomtatók listája.</u>                                                  | Itt láthatóak a hálózati ***nyomtatók***                                                           | A *lista* a legtöbb hasonló helyzetben felesleges: magától értetődik, hogy nem maguk a nyomtatók jelennek meg.                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Segítségével szöveget lehet másolni a <u>dokumentumok között</u>.                                 | Segítségével szöveget lehet másolni az ***egyik dokumentumból a másikba***.                        | Ez az angol szerkezet tükörfordítása.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Kattintsunk az OK gombra a párbeszédpanel <u>használata közben</u>.                               | Kattintsunk az OK gombra, ***amikor*** ez a párbeszédpanel látható a képernyőn.                    | Szintén tükörfordítás.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -140,5 +128,4 @@ A következőkben számos olyan konkrét fordulatot sorolunk fel, melyek igen gy
 | A rendőr intett az autónak, <u>amely</u> fékezett.                                                | A rendőr intett az autónak, ***mire az*** fékezett.                                                | Az intés következménye a fékezés, nem a fékező autónak intett (azért, mert fékezett).                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | <u>Többé nem</u>                                                                                  | ***Már nem***                                                                                      | A *no more* tükörfordítása. (Gondolom a *nicht mehr* miatt létezik a kifejezés.)                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | <u>Mikor</u> fájlokat másol…                                                                      | ***Ha*** fájlokat másol…                                                                           | A *When* tükörfordítása.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-
 
