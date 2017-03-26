@@ -178,8 +178,8 @@ A számítástechnikai szövegekben igen sok angol betűszó (pl. TCP/IP) szerep
 
 #### Projekt specifikus tudnivalók
 
-A GNOME projekt esetén az egyes beépített alkalmazások neveit is lefordítjuk. Például:GNOME Photos → GNOME Fényképek, GNOME Builder → GNOME Építő.
-A Mozilla projektek neveit nem fordítjuk le. Például Mozilla Firefox, Mozilla Thunderbird, Mozilla Thimble és nem: ~~Tűzróka~~, ~~Vörös panda~~, ~~Viharmadár~~, ~~Gyűszű~~.
+* A GNOME projekt esetén az egyes beépített alkalmazások neveit is lefordítjuk. Például:GNOME Photos → GNOME Fényképek, GNOME Builder → GNOME Építő.
+* A Mozilla projektek neveit nem fordítjuk le. Például Mozilla Firefox, Mozilla Thunderbird, Mozilla Thimble és nem: ~~Tűzróka~~, ~~Vörös panda~~, ~~Viharmadár~~, ~~Gyűszű~~.
 
 ### Címek
 
