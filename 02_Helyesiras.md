@@ -230,17 +230,17 @@ Nincsen kötőjel! Semmi nem indokolná, hogy legyen.
 
 Különírjuk, ha az a vagy e egy (alanyra mutató) mutatószó, például:
 
-` `***`Elvesztette` `a` `füzetét,` `ezért` `a` `nélkül` `ment` `el` `az` `iskolába.`***` `
+* ***Elvesztette a füzetét, ezért a nélkül ment el az iskolába.***
 
-` `***`A` `nélkül` `a` `füzet` `nélkül...`***
+* ***A nélkül a füzet nélkül...`***
 
-` `***`E` `helyett` `a` `darab` `helyett` `egy` `másikat` `játszanak.`***
+* ***E helyett a darab helyett egy másikat játszanak.***
 
 Egybeírjuk, ha határozószó, vagyis ha az a vagy e nem értelmezhető mutatószóként, legfeljebb a másik tagmondat teljes egészére (azaz állítmányára) mutató mutatószóként (de ez már nyakatekert értelmezés). Ilyenkor hogy szokta követni a szót.
 
-` `***`Hazament` `anélkül,` `hogy` `elköszönt` `volna.`***
+* ***Hazament anélkül, hogy elköszönt volna.***
 
-` `***`Már` `megint` `játszol,` `ehelyett` `igazán` `csinálhatnál` `valami` `értelmesebbet.`***
+* ***Már megint játszol, ehelyett igazán csinálhatnál valami értelmesebbet.***
 
 ### A leggyakrabban rosszul írt szavak szótára
 
