@@ -1,0 +1,19 @@
+Sok önkéntes vett és vesz részt a szabad szoftverek és dokumentációk magyarra fordításában. Reméljük, hogy a továbbiakban még több ilyen munka folyik majd.
+
+A minőség javítását és az egységesítést szem előtt tartva készítettük ezt az útmutatót, amely egyrészt – leszűrve az elmúlt évek gyakori hibáinak tanulságait – összegyűjti az alapvető fordítói ismereteket, másrészt igyekszik írásba foglalni azokat a mindeddig íratlan szabályokat, melyek bár korántsem érvényesek minden fordítási munkára, az egységesség iránti igény miatt itt mégsem nélkülözhetők.
+
+Jelölések ebben a dokumentumban
+===============================
+
+A helyes szavakat, mondatokat **félkövér dőlt betűtípussal** szedjük ebben a dokumentumban. <u>Aláhúzást kapnak</u> azok az alakok, melyek nem hibásak ugyan, de használatukat nem javasoljuk.
+
+Sajnos elkerülhetetlen, hogy hibás alakokat is közöljünk helyenként. <s>Ezeket áthúzva írjuk</s>.
+
+Ha valaki nem tud valamit...
+============================
+
+Senki sem tudhat mindent. Nem csak azért, mert az emberi memória véges; azért sem, mert fordításainknál mind a terminológia, mind az alapelvek időről időre változnak. Minden fordítót arra szeretnénk kérni, hogy – legalábbis a fordítás idejére – találja meg magában a kétkedés csíráját, és néha bizonytalanodjon el akár a helyesírást, akár a kifejezéseket, akár az íratlan szabályokat illetően.
+
+Mi a teendő, ha ez sikerült? A helyesírási kételyeket eloszlatja a tanácsadó szótár, a terminológiai gondokat többnyire megoldja a szószedet, a szabályok jórészt megtalálhatók ebben az útmutatóban. A többi fordító is készséggel segít, a levelezőlistákon bármikor segítséget lehet kérni.
+
+Ha valami végképp nem oldódik meg, a kétes részek jelölése legyen egységes: három nagybetűs „X” a szó (kifejezés, mondat) előtt, szóköz nélkül. Példa: „A program leghasznosabb szolgáltatása az Eszközök menü XXXIce Cream parancsára kattintva indítható el.”
