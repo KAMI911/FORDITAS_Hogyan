@@ -1,3 +1,5 @@
+Témakörök: [Bevezetés][1]|[Helyesírás][2]|[Nyelvhelyesség][3]|[Stílus][4]|[Szavak és kifejezések][5]|[Gyakori hibák][6]|[Technikai részletek][7]|[Külső hivatkozások][8]
+
 # Bevezetés
 
 Napjainkban számtalan szoftver és mellékelt dokumentum, használati útmutató érhető el angolul. A legtöbb projekt lehetőséget biztosít a felhasználói felületek, súgók és dokumentációk honosítására, így magyar változat is készíthető. Ezeket a fordításokat általában erre a célra kialakított webes fordítói felületen vagy a nyelvi fájlokat letöltve – egy célprogramban – fordítjuk le. Ezek az eszközök segítenek az egységes és jó minőségű fordítások gyorsabb elkészítésében.
@@ -32,4 +34,13 @@ Használjuk az adott projekt erre a célra fenntartott (magyar nyelvű) levelez�
 
 Levelezőlisták elérhetősége:
 TODO:
+
+[1]: 01_Bevezetes.md
+[2]: 02_Helyesiras.md
+[3]: 03_Nyelvhelyesseg.md
+[4]: 04_Stilus.md
+[5]: 05_Szavak_es_kifejezesek.md
+[6]: 06_Gyakori_hibak.md
+[7]: 07_Technikai_reszletek.md
+[8]: 08_Kulso_hivatkozasok.md
 
