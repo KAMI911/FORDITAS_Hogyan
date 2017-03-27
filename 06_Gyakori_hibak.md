@@ -1,3 +1,5 @@
+Témakörök: [Bevezetés][1]|[Helyesírás][2]|[Nyelvhelyesség][3]|[Stílus][4]|[Szavak és kifejezések][5]|[Gyakori hibák][6]|[Technikai részletek][7]|[Külső hivatkozások][8]
+
 Avagy "okos ember más hibáiból tanul" - rovat. Vannak olyan hibák, amiket a legtöbb kezdő fordító elkövet, ezekből álljon itt egy kis gyűjtemény.
 
 Hamis barátok
@@ -116,4 +118,13 @@ Az alábbi rész a [Fordítás HOGYAN](http://tldp.fsf.hu/Forditas-HOGYAN/Fordit
 -   Ha valamely szó, kifejezés vagy mondat jelentésében bizonytalan vagy illetve végképp nem boldogulsz, kérdezz rá a levelezőlistán, amelyre a [A Magyar Linux Dokumentációs Projekt](https://lists.sch.bme.hu/wws/info/linuxhowto) honlapon iratkozhatsz fel. A lista ugyanis ezért (is) van.
 -   Ha az angol szó vagy kifejezés látszólag nem illik a mondatba, akkor gyanakodj! Valószínűleg többértelmű szóról/kifejezésről van szó. Például a "double check" kifejezést többen, csont nélkül "dupla ellenőrzés"-nek fordították, ez annyira magyartalan, hogy csak na. A "double check" helyesen "alapos ellenőrzés". Ilyen esetben használjátok a fordítási segédleteket, ha végképp nem boldogulsz, akkor a teendőket lásd az előző bekezdésben.
 -   A munka végeztével olvasd végig fordításodat a helyesírási hibákat is figyelve/javítva. Ha épeszű magyar emberként megérted amit abban leírtál, valószínűleg jó munkát végeztél. Tartsd észben: a fordításokat a Linux-felhasználók népes tábora olvassa.
+
+[1]: 01_Bevezetes.md
+[2]: 02_Helyesiras.md
+[3]: 03_Nyelvhelyesseg.md
+[4]: 04_Stilus.md
+[5]: 05_Szavak_es_kifejezesek.md
+[6]: 06_Gyakori_hibak.md
+[7]: 07_Technikai_reszletek.md
+[8]: 08_Kulso_hivatkozasok.md
 

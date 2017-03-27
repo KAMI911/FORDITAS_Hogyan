@@ -1,3 +1,5 @@
+Témakörök: [Bevezetés][1]|[Helyesírás][2]|[Nyelvhelyesség][3]|[Stílus][4]|[Szavak és kifejezések][5]|[Gyakori hibák][6]|[Technikai részletek][7]|[Külső hivatkozások][8]
+
 # Stílus
 Az általában használandó stílust nehéz pontosan meghatározni. A cél mindenesetre az, hogy a szöveg hétköznapi, közérthető nyelvezetet használjon pontos és gördülékeny fogalmazásban.
 
@@ -73,3 +75,13 @@ Itt hívjuk fel a figyelmet arra, hogy a *műveletek lépéseinél* magyarul is 
 ## Pongyola stílus
 
 Kerüljük a pongyola, túlzottan laza stílust. Az írott nyelv szókincsét használjuk, az olyan szavak, mint <u>muszáj</u>, <u>persze</u>, <u>kéne</u> stb. nem állják meg a helyüket. A példa fájlokat ne <u>tesztecskémtedrága</u> névre kereszteljük el, hanem mondjuk ***példafájl*** névre. Ne próbáljunk meg poénkodni, vagy túlzottan egyéni stílust, túlzottan szubjektív véleményt belevinni a fordításba.
+
+[1]: 01_Bevezetes.md
+[2]: 02_Helyesiras.md
+[3]: 03_Nyelvhelyesseg.md
+[4]: 04_Stilus.md
+[5]: 05_Szavak_es_kifejezesek.md
+[6]: 06_Gyakori_hibak.md
+[7]: 07_Technikai_reszletek.md
+[8]: 08_Kulso_hivatkozasok.md
+

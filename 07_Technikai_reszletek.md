@@ -1,3 +1,5 @@
+Témakörök: [Bevezetés][1]|[Helyesírás][2]|[Nyelvhelyesség][3]|[Stílus][4]|[Szavak és kifejezések][5]|[Gyakori hibák][6]|[Technikai részletek][7]|[Külső hivatkozások][8]
+
 Gettext, .pot- és .po-fájlok
 ============================
 
@@ -319,3 +321,13 @@ Az alsó harmad bal oldalán a kifejezéstár és a megnyitott fájl(ok) alapjá
 Egyszerre több fájl is megnyitható, de csak az első írható. A többi fájlt megpróbálja ráilleszteni a jelenlegi fordításra, így ha például te olyan török fordító vagy, aki a német nyelvben jobban kiismeri magát, mint az angolban, akkor lehetőséged van látni a német fordítást is - természetesen abba nem piszkálhatsz. Képes a kifejezéstár alapján automata fordításra is, azonban az automata fordítónak gondot okoznak a hívóbetűk, így arra ügyelni kell, hogy a kifejezéstárban meglegyen a legtöbbször használt verzió.
 
 Meg kell jegyezni, hogy a Qt 3 és Qt 4 verziók Linguist programjai nem kompatibilisek egymással: a 4-es .ts fájljainak nem minden mezőjét ismeri a 3-as Linguist, illetve a 3-as lrelease által készített .qm fájlok nem működnek a Qt 4 programok binárisaival.
+
+[1]: 01_Bevezetes.md
+[2]: 02_Helyesiras.md
+[3]: 03_Nyelvhelyesseg.md
+[4]: 04_Stilus.md
+[5]: 05_Szavak_es_kifejezesek.md
+[6]: 06_Gyakori_hibak.md
+[7]: 07_Technikai_reszletek.md
+[8]: 08_Kulso_hivatkozasok.md
+
